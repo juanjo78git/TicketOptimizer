@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/ConfValor" >
+
+        <EditTextPreference
+            android:key="pref_ticket1"
+            android:summary="@string/ConfValorTicket1Desc"
+            android:numeric="decimal"
+            android:title="@string/ConfValorTicket1"
+            android:defaultValue="4.00"
+            android:icon="@android:drawable/ic_menu_edit" />
+
+        <EditTextPreference
+            android:key="pref_ticket2"
+            android:summary="@string/ConfValorTicket2Desc"
+            android:numeric="decimal"
+            android:title="@string/ConfValorTicket2"
+            android:defaultValue="1.40"
+            android:icon="@android:drawable/ic_menu_edit" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/About" >
+
+
+    <Preference
+
+        android:title="@string/Sugerencias"
+        android:summary="@string/SugerenciasDesc"
+        android:icon="@android:drawable/ic_dialog_email" >
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="mailto:admin@devclo.com" >
+            <extra android:name="android.intent.extra.SUBJECT" android:value="@string/email_subject" />
+        </intent>
+    </Preference>
+
+
+        <Preference
+
+            android:title="@string/Web"
+            android:summary="@string/WebDesc"
+            android:icon="@android:drawable/ic_menu_compass" >
+
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.devclo.com/"/>
+        </Preference>
+
+    </PreferenceCategory>
+</PreferenceScreen>

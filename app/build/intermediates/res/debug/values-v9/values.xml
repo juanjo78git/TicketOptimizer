@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Users/juanjgon/AndroidStudioProjects/TicketOptimizer/app/src/main/res/values-v9/themes.xml -->
+    <eat-comment/>
+    <style name="CustomTheme" parent="@style/_CustomTheme">
+
+    <item name="android:textSelectHandleLeft">@drawable/customtheme_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/customtheme_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/customtheme_text_select_handle_middle</item>
+
+  </style>
+</resources>

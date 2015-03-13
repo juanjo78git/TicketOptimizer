@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ticket Optimizer</string>
+
+    <string name="action_settings">Configuración</string>
+
+    <string name="title_activity_pref">Configuración</string>
+
+    <string name="settings">Disponible</string>
+    <string name="CantidadTicket1">Cantidad de tickets de %1$s </string>
+    <string name="CantidadTicket2">Cantidad de tickets de %1$s </string>
+    <string name="Importe">Importe</string>
+    <string name="ImporteAConvertir">Importe a convertir</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Resultado">Resultado</string>
+    <string name="CantidadEfectivo">Cantidad en efectivo</string>
+
+
+
+    <string name="ConfValor">Valor de los tickets</string>
+    <string name="ConfValorTicket1">Valor del Ticket 1</string>
+    <string name="ConfValorTicket1Desc">Establece el valor del ticket 1</string>
+    <string name="ConfValorTicket2">Valor del Ticket 2</string>
+    <string name="ConfValorTicket2Desc">Establece el valor del ticket 2</string>
+
+    <string name="About">Acerca de</string>
+    <string name="Sugerencias">Sugerencias</string>
+    <string name="SugerenciasDesc">Envia un correo al autor</string>
+    <string name="email_subject">Sugerencia Ticket Optimizer</string>
+    <string name="Web">Web</string>
+    <string name="WebDesc">Accede a DevClo.com</string>
+
+</resources>
+

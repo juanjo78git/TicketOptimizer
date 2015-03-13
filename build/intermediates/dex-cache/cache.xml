@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\juanjgon\AppData\Local\Android\sdk\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-b41ea35daf669f368b1fcd3b8414ee42a9062265.jar" />
+    </item>
+    <item
+        jar="D:\Users\juanjgon\AppData\Local\Android\sdk\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-b41ea35daf669f368b1fcd3b8414ee42a9062265.jar" />
+    </item>
+    <item
+        jar="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9ef267b5eee646613dcdc907707712b141ef03ba.jar" />
+    </item>
+    <item
+        jar="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\classes-cebc6490cf9cd43b5fe68a8de1aeef0880cbf9f5.jar" />
+    </item>
+    <item
+        jar="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9ef267b5eee646613dcdc907707712b141ef03ba.jar" />
+    </item>
+    <item
+        jar="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\classes-7f5880fd3671a428d65e6e86709f4e2aa210d978.jar" />
+    </item>
+    <item
+        jar="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\classes-cebc6490cf9cd43b5fe68a8de1aeef0880cbf9f5.jar" />
+    </item>
+    <item
+        jar="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Users\juanjgon\AndroidStudioProjects\TicketOptimizer\app\build\intermediates\pre-dexed\debug\classes-7f5880fd3671a428d65e6e86709f4e2aa210d978.jar" />
+    </item>
+
+</items>
