@@ -1339,11 +1339,11 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0a002e;
         public static final int action_mode_bar_stub=0x7f0a002d;
         public static final int action_mode_close_button=0x7f0a0020;
-        public static final int action_settings=0x7f0a0050;
+        public static final int action_settings=0x7f0a0051;
         public static final int activity_chooser_view_content=0x7f0a0021;
         public static final int always=0x7f0a0016;
         public static final int beginning=0x7f0a0013;
-        public static final int btnCalcular=0x7f0a0048;
+        public static final int btnCalcular=0x7f0a0049;
         public static final int checkbox=0x7f0a0029;
         public static final int collapseActionView=0x7f0a0017;
         public static final int decor_content_parent=0x7f0a002f;
@@ -1353,12 +1353,12 @@ containing a value of this type.
         public static final int dropdown=0x7f0a001c;
         public static final int edit_query=0x7f0a0033;
         public static final int end=0x7f0a0014;
-        public static final int etCantAConvertir=0x7f0a0047;
-        public static final int etCantOri1=0x7f0a0042;
-        public static final int etCantOri2=0x7f0a0044;
-        public static final int etCantRes1=0x7f0a004b;
-        public static final int etCantRes2=0x7f0a004d;
-        public static final int etCantResEfectivo=0x7f0a004f;
+        public static final int etCantAConvertir=0x7f0a0048;
+        public static final int etCantOri1=0x7f0a0043;
+        public static final int etCantOri2=0x7f0a0045;
+        public static final int etCantRes1=0x7f0a004c;
+        public static final int etCantRes2=0x7f0a004e;
+        public static final int etCantResEfectivo=0x7f0a0050;
         public static final int expand_activities_button=0x7f0a0022;
         public static final int expanded_menu=0x7f0a0028;
         public static final int home=0x7f0a0004;
@@ -1375,6 +1375,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0a0005;
         public static final int progress_horizontal=0x7f0a0006;
         public static final int radio=0x7f0a002b;
+        public static final int scrollView=0x7f0a003f;
         public static final int search_badge=0x7f0a0035;
         public static final int search_bar=0x7f0a0034;
         public static final int search_button=0x7f0a0036;
@@ -1393,16 +1394,16 @@ containing a value of this type.
         public static final int submit_area=0x7f0a003c;
         public static final int tabMode=0x7f0a000b;
         public static final int title=0x7f0a0027;
-        public static final int tvCantAConvertir=0x7f0a0046;
-        public static final int tvCantEfectivo=0x7f0a004e;
-        public static final int tvCantOri1=0x7f0a0041;
-        public static final int tvCantOri2=0x7f0a0043;
-        public static final int tvCantRes1=0x7f0a004a;
-        public static final int tvCantRes2=0x7f0a004c;
-        public static final int tvTitulo=0x7f0a003f;
-        public static final int tvTituloConfig=0x7f0a0040;
-        public static final int tvTituloImporte=0x7f0a0045;
-        public static final int tvTituloResultado=0x7f0a0049;
+        public static final int tvCantAConvertir=0x7f0a0047;
+        public static final int tvCantEfectivo=0x7f0a004f;
+        public static final int tvCantOri1=0x7f0a0042;
+        public static final int tvCantOri2=0x7f0a0044;
+        public static final int tvCantRes1=0x7f0a004b;
+        public static final int tvCantRes2=0x7f0a004d;
+        public static final int tvTitulo=0x7f0a0040;
+        public static final int tvTituloConfig=0x7f0a0041;
+        public static final int tvTituloImporte=0x7f0a0046;
+        public static final int tvTituloResultado=0x7f0a004a;
         public static final int up=0x7f0a0008;
         public static final int useLogo=0x7f0a0012;
         public static final int withText=0x7f0a001a;
@@ -1481,8 +1482,9 @@ containing a value of this type.
         public static final int action_settings=0x7f0c0021;
         public static final int app_name=0x7f0c0022;
         public static final int email_subject=0x7f0c0023;
-        public static final int settings=0x7f0c0024;
-        public static final int title_activity_pref=0x7f0c0025;
+        public static final int hello_blank_fragment=0x7f0c0024;
+        public static final int settings=0x7f0c0025;
+        public static final int title_activity_pref=0x7f0c0026;
     }
     public static final class style {
         /**  Customize your theme here. 

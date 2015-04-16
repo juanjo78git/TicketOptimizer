@@ -190,6 +190,7 @@
     <string name="action_settings">Configuración</string>
     <string name="app_name">Ticket Optimizer</string>
     <string name="email_subject">Sugerencia Ticket Optimizer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="settings">Disponible</string>
     <string name="title_activity_pref">Configuración</string>
     <!-- From: file:/D:/Users/juanjgon/AndroidStudioProjects/TicketOptimizer/app/src/main/res/values/styles.xml -->
