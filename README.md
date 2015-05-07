@@ -1,5 +1,5 @@
 # Ticket Optimizer
-[![AppVeor][badge-appveyor]][appveyor]
+
 [![Open issues][badge-issues]][issues]
 [![License][badge-license]][license]
 
@@ -19,3 +19,13 @@ calcula la cantidad de tickets a utilizar.
 
 Este cálculo lo realiza de forma que prioriza los tickets de más valor, de este modo
 tendremos más posibilidades de reutilizarlos en futuros pagos.
+
+
+### Licencia
+
+Bajo la [licencia MIT][license]
+
+[badge-issues]:   http://img.shields.io/github/issues/juanjo78git/TicketOptimizer.svg?style=flat-square
+[badge-license]:  http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[issues]:         https://github.com/juanjo78git/TicketOptimizer/issues?q=is%3Aopen+label%3ATODO+is%3Aissue
+[license]:        LICENSE
