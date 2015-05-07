@@ -1,4 +1,7 @@
 # Ticket Optimizer
+[![AppVeor][badge-appveyor]][appveyor]
+[![Open issues][badge-issues]][issues]
+[![License][badge-license]][license]
 
 Pequeña aplicación Android que permite calcular el número de tickets/cheques necesarios 
 para pagar en un restaurante que los permita.
