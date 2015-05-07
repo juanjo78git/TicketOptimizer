@@ -1,5 +1,5 @@
 # Ticket Optimizer
-
+[![travis-ci][badge-travis]][travis]
 [![Open issues][badge-issues]][issues]
 [![License][badge-license]][license]
 
@@ -25,7 +25,10 @@ tendremos más posibilidades de reutilizarlos en futuros pagos.
 
 Bajo la [licencia MIT][license]
 
+[bad-travis]:     https://api.travis-ci.org/penicolas/fwblittle.vim.svg?branch=master
+[badge-travis]:   https://travis-ci.org/juanjo78git/TicketOptimizer.svg?style=flat-square
 [badge-issues]:   http://img.shields.io/github/issues/juanjo78git/TicketOptimizer.svg?style=flat-square
 [badge-license]:  http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[travis]:         https://travis-ci.org/juanjo78git/TicketOptimizer  
 [issues]:         https://github.com/juanjo78git/TicketOptimizer/issues?q=is%3Aopen+label%3ATODO+is%3Aissue
 [license]:        LICENSE
